@@ -220,8 +220,8 @@ Potential extensions for this project:
 - MSc Data Science - University of Essex
 - MSc Applied Statistics - University of Colombo
 - 📧 asvindyaravi@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/vindya-siriwardhana/)
-- 🔗 [GitHub]([GitHub](https://github.com/Vindya-Siriwardhana))
+- 💼 [https://www.linkedin.com/in/vindya-siriwardhana/]
+- 🔗 [https://github.com/Vindya-Siriwardhana]
 
 ---
 
