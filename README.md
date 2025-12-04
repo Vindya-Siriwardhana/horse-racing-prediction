@@ -233,7 +233,7 @@ This project is available for educational and portfolio purposes.
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Specify if public dataset]
+- Dataset source: 
 - Analysis framework inspired by quantitative finance methodologies
 - Statistical approaches validated against sports analytics literature
 
