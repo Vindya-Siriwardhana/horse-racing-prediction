@@ -113,9 +113,9 @@ horse-racing-prediction/
 - Created feature set that outperforms traditional metrics
 
 ### Model Performance:
-- **Best Model:** [Your best performing model]
-- **Accuracy:** [Your accuracy metric]
-- **ROC-AUC:** [Your AUC score]
+- **Best Model:** [Gradient Boosting]
+- **Accuracy:** [ROC-AUC]
+- **ROC-AUC:** [0.791]
 - **Market Comparison:** Models identified value opportunities not reflected in market odds
 
 ### Business Impact:
